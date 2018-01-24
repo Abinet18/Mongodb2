@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5a687dddce9695aa4dcfb042"},"name":"Mum","category":"University","coord":[-91.9672906,41.0178238]}
+{"_id":{"$oid":"5a688b2fb7ffe818306e3df2"},"name":"Fairfield Public Library","category":"Library","coord":[-91.9643352,41.0044462]}
+{"_id":{"$oid":"5a688ba0b7ffe818306e3df3"},"name":"The University of Iowa","category":"University","coord":[-91.55557418378908,41.66293124346875]}
+{"_id":{"$oid":"5a688ca6b7ffe818306e3df4"},"name":"Chicago Midway International Airport","category":"Airport","coord":[-87.75270774589842,41.78934959799582]}
+{"_id":{"$oid":"5a688cfeb7ffe818306e3df5"},"name":"Des Moines International Airport","category":"Airport","coord":[-93.6587958,41.5341333]}
